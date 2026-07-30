@@ -17,8 +17,8 @@ I'm a fresh Computer Engineering graduate currently gearing up to join the **MS 
 
 ### 📊 My Live GitHub Dashboard
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=RohanMali2003&show_icons=true&theme=tokyonight&hide_border=true" width="48%" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RohanMali2003&layout=compact&theme=tokyonight&hide_border=true" width="48%" alt="Top Languages" />
+  <img src="https://github-stats-extended.vercel.app/api?username=RohanMali2003&show_icons=true&theme=tokyonight&hide_border=true" width="48%" alt="GitHub Stats" />
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=RohanMali2003&layout=compact&theme=tokyonight&hide_border=true" width="48%" alt="Top Languages" />
 </p>
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=RohanMali2003&theme=tokyonight&hide_border=true" width="48%" alt="GitHub Streak" />
