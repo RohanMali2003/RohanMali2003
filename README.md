@@ -43,6 +43,11 @@ I'm a fresh Computer Engineering graduate currently gearing up to join the **MS 
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=RohanMali2003&theme=tokyonight&hide_border=true&bg_color=1A1B27" width="100%" alt="GitHub Activity Graph" />
 </p>
 
+### 🐍 Contribution Snake
+<p align="center">
+  <img src="https://raw.githubusercontent.com/RohanMali2003/RohanMali2003/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+</p>
+
 ### 🌍 Outside of Code
 *   🔭 I love love love love Astronomy. I've been told I always have my head in the clouds.
 *   🏊‍♂️ I used to swim competitively. Now I swim uncompetitively.
