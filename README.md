@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+[![Rohan's GitHub stats](https://github-stats-extended.vercel.app/api?username=RohanMali2003)](https://github.com/stats-organization/github-stats-extended)
+
 <!--
 **RohanMali2003/RohanMali2003** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
