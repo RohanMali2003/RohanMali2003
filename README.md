@@ -36,7 +36,7 @@ I'm a fresh Computer Engineering graduate currently gearing up to join the **MS 
 ### 📊 My Live GitHub Dashboard
 
 <p align="center">
-  <img src="https://github-stats-extended.vercel.app/api?username=RohanMali2003&show_icons=true&theme=tokyonight&hide_border=true&v=1&count_private=true" width="49%" alt="GitHub Stats" />
+  <img src="[https://github-stats-extended.vercel.app/api?username=RohanMali2003&show_icons=true&theme=tokyonight&hide_border=true&v=1&count_private=true](https://github-stats-extended.vercel.app/api?username=RohanMali2003&include_all_commits=true&theme=dark)" width="49%" alt="GitHub Stats" />
   <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=RohanMali2003&layout=compact&theme=tokyonight&hide_border=true" width="49%" alt="Top Languages" />
 </p>
 <p align="center">
