@@ -2,7 +2,7 @@
 
 | 🎓 | 🚀 | 🧠 | 💡 |
 | :---: | :---: | :---: | :---: |
-| **Incoming MSCS**<br>@ UMass Amherst | **AI & ML Novice**<br>Gearing up for Advanced Research | **Building Intelligent Systems**<br>or at least, I'm trying to | **From Code to Consciousness**<br>I spend most of my time telling AI Coding Agents to make code reusable and keep it simple |
+| **MSCS**<br>@ UMass Amherst | **AI & ML Novice**<br>Gearing up for Advanced Research | **Building Intelligent Systems**<br>or at least, I'm trying to | **From Code to Consciousness**<br>I spend most of my time telling AI Coding Agents to make code reusable and keep it simple |
 
 I'm a fresh Computer Engineering graduate currently gearing up to join the **MS in Computer Science program at UMass Amherst**. My biggest aspiration right now is to evolve from an AI novice into someone who engineers robust, scalable AI architectures that can tackle complex, real-world problems. I'm all about building a rock-solid foundation, pushing my technical limits, and continuous learning (need to emphasize: a LOT of learning).
 
